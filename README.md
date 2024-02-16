@@ -42,10 +42,11 @@ The Instagram Active Story Followers Scraper script offers the following functio
 - Log in to your Instagram account when prompted or provide the credentials in the `credentials.txt` file.
 - The script will log in to your Instagram account and start scraping active story followers.
 - Once completed, the usernames will be saved to a file named `followers.txt` in the same directory as the script.
+- In the end you can use this `followers.txt` to ❤️ [Instagram Story Liker](https://github.com/mateo1mc/Instagram-Story-Liker) project ❤️
 
 
 ## Author
-This script was authored by @mateo1mc
+This script was authored by [@mateo1mc](https://github.com/mateo1mc/)
 
 <br>
 <!-- Connect with me -->
