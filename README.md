@@ -46,7 +46,8 @@ The Instagram Active Story Followers Scraper script offers the following functio
 
 
 ## Author
-This script was authored by [@mateo1mc](https://github.com/mateo1mc/)
+**This script has been authored by [@mateo1mc](https://github.com/mateo1mc/). <br>
+Any usage or dissemination without proper permission or without crediting the author is strictly prohibited.⛔**
 
 <br>
 <!-- Connect with me -->
